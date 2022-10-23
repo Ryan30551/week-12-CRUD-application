@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: orange;
+}
+
+h2{
+    color: black;
+}
+
+fieldset{
+    color: black;
+}
+
+legend{
+    color: black;
+}
+
+h4{
+    color: orangered;
+}
